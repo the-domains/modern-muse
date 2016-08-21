@@ -1,4 +1,3 @@
-layout_spectrum: 0.4163538753055036
 typography_spectrum: 0.9121157908812165
 color:
   brandStrength: 0.4465712585952133
@@ -6,9 +5,11 @@ color:
   saturation: 0.6384574002586305
   rhythmicContrast: 0.34583342960104346
   brandColors:
-    - '#E1B5B4'
-    - '#80748A'
-    - '#FAF3EB'
-    - '#524A59'
-    - '#969CB1'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.4163538753055036
 name: modern muse
+description: When only the best will do
