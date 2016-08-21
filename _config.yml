@@ -1,3 +1,4 @@
+layout_spectrum: 0.4163538753055036
 typography_spectrum: 0.9121157908812165
 color:
   brandStrength: 0.4465712585952133
@@ -10,7 +11,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.4163538753055036
 name: modern muse
-title: Lifestyle
-description: When only the best will do
