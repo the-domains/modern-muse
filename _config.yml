@@ -28,5 +28,8 @@ navigation:
   - name: 'Reduced Spoke Bicycles : Conceptual Bike'
     id: 11a30d24-2448-49cb-bfb2-269dac802a90
     type: content
+  - name: 'Wandering: New York'
+    id: 91d153d9-2acc-432f-a567-f8abe8a720c9
+    type: content
 title: Lifestyle
 description: When only the best will do
