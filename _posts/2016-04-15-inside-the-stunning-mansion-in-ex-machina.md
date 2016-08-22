@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-21T03:35:44.973Z'
+datePublished: '2016-08-22T01:00:58.533Z'
 sourcePath: _posts/2016-04-15-inside-the-stunning-mansion-in-ex-machina.md
 inFeed: true
-isBasedOnUrl: 'http://www.vanityfair.com/hollywood/2015/04/ex-machina-location'
-hasPage: false
+hasPage: true
 keywords:
   - digby
   - nathan
@@ -20,7 +19,7 @@ author:
   - name: Katey Rich
     url: 'http://www.vanityfair.com/contributor/katey-rich'
     avatar: {}
-dateModified: '2016-08-21T03:35:42.921Z'
+dateModified: '2016-08-22T01:00:57.733Z'
 title: Inside the Stunning Mansion in Ex Machina
 app_links: []
 publisher:
@@ -38,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: inside-the-stunning-mansion-in-ex-machina/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
