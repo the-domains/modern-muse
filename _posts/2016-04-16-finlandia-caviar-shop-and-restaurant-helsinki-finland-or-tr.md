@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-21T03:35:44.970Z'
+datePublished: '2016-08-22T01:02:27.808Z'
 sourcePath: >-
   _posts/2016-04-16-finlandia-caviar-shop-and-restaurant-helsinki-finland-or-tr.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/travel/finland/helsinki/restaurants/finlandia-caviar-shop-and-restaurant
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - finnish
   - laajisto
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-21T03:35:42.896Z'
+dateModified: '2016-08-22T01:02:24.996Z'
 title: 'Finlandia Caviar Shop and Restaurant, Helsinki, Finland '
 app_links: []
 publisher:
@@ -38,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: finlandia-caviar-shop-and-restaurant-helsinki-finland/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
