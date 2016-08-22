@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-21T03:35:44.842Z'
+datePublished: '2016-08-22T01:06:50.761Z'
 sourcePath: >-
   _posts/2016-04-16-rising-dawn-rolls-royce-debut-handsome-new-soft-top-or-lifes.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/rolls-royce-debut-their-handsome-new-soft-top
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - rolls-royce
   - dawn
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-21T03:35:42.220Z'
+dateModified: '2016-08-22T01:06:49.984Z'
 title: 'Rising dawn: Rolls-Royce debut handsome new soft-top.'
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: rising-dawn-rolls-royce-debut-handsome-new-soft-top/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
