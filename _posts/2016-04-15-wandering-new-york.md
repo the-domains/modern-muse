@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-21T03:35:44.849Z'
+datePublished: '2016-08-22T01:04:56.153Z'
 sourcePath: _posts/2016-04-15-wandering-new-york.md
 inFeed: true
-isBasedOnUrl: 'https://vimeo.com/115179625'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
   - name: Rustad Media
     url: 'http://vimeo.com/rustadmedia'
     avatar: {}
-dateModified: '2016-08-21T03:35:42.247Z'
+dateModified: '2016-08-22T01:04:55.276Z'
 title: 'Wandering: New York'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115179625'
@@ -54,6 +53,7 @@ inLanguage: null
 inNav: false
 via: {}
 starred: false
+url: wandering-new-york/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
