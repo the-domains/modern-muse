@@ -34,5 +34,8 @@ navigation:
   - name: 3sixteen + Herman Miller
     id: 6abfac35-5b8e-4295-8ca9-a52e1a303ab9
     type: content
+  - name: 'Coming clean: Dirty Lemon makes detoxing a little easier.'
+    id: 7133534f-1819-4b07-9cf9-0472f49ed132
+    type: content
 title: Lifestyle
 description: When only the best will do
